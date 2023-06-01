@@ -1,0 +1,79 @@
+[
+  {
+    "id": "41",
+    "name": "Luciana",
+    "age": "31",
+    "role": "Backend",
+    "hobby": "Chess",
+    "freetime": "3",
+    "salary": "65000",
+    "scholarity": "Master",
+    "productivity_class": "Moderate"
+  },
+  {
+    "id": "42",
+    "name": "Carlos",
+    "age": "28",
+    "role": "Frontend",
+    "hobby": "Fotografia",
+    "freetime": "2",
+    "salary": "55000",
+    "scholarity": "Graduate",
+    "productivity_class": "Low"
+  },
+  {
+    "id": "43",
+    "name": "Marcela",
+    "age": "35",
+    "role": "Architect",
+    "hobby": "Running",
+    "freetime": "4",
+    "salary": "90000",
+    "scholarity": "Doctorate",
+    "productivity_class": "High"
+  },
+  {
+    "id": "44",
+    "name": "Pedro",
+    "age": "26",
+    "role": "Developer",
+    "hobby": "Chess",
+    "freetime": "3",
+    "salary": "60000",
+    "scholarity": "Graduate",
+    "productivity_class": "Moderate"
+  },
+  {
+    "id": "45",
+    "name": "Ana",
+    "age": "29",
+    "role": "Backend",
+    "hobby": "Walking",
+    "freetime": "2",
+    "salary": "70000",
+    "scholarity": "Doctorate",
+    "productivity_class": "Low"
+  },
+  {
+    "id": "24",
+    "name": "Xavier",
+    "age": "29",
+    "role": "Frontend",
+    "hobby": "Chess",
+    "freetime": "2",
+    "salary": "56000",
+    "scholarity": "Non-graduate",
+    "productivity_class": "Low"
+  },
+  {
+    "id": "4",
+    "name": "Dan",
+    "age": "27",
+    "role": "Developer",
+    "hobby": "Chess",
+    "freetime": "2",
+    "salary": "60000",
+    "scholarity": "Non-graduate",
+    "productivity_class": "Low"
+  }
+]
